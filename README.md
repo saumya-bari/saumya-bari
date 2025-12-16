@@ -73,14 +73,6 @@
 
 ###
 
-<h1 align="left">📊 GitHub Stats</h1>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="left">🤝 Let’s Connect</h1>
