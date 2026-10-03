@@ -1,5 +1,9 @@
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=saumya-bari&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220098074%3Fu%3D41bcb99616588c77502e420ab03204df502ec34a%26v%3D4&label=Saumya%20Bari&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=saumya-bari&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220098074%3Fu%3D41bcb99616588c77502e420ab03204df502ec34a%26v%3D4&label=Saumya%20Bari&mode=dark" width="100%" alt="Saumya Bari cinematic profile scene" />
+</picture><div align="center">
+  
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
