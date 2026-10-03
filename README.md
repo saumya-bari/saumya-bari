@@ -122,11 +122,10 @@
 
 <hr />
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/saumya-bari">GitHub</a></td>
-</tr>
-</table>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=saumya-bari&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220098074%3Fu%3D41bcb99616588c77502e420ab03204df502ec34a%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=saumya-bari&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220098074%3Fu%3D41bcb99616588c77502e420ab03204df502ec34a%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Saumya Bari community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/saumya-bari">GitHub</a></p>
+<p align="center"><sub>Saumya Bari · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-<p align="center"><sub>Saumya Bari · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
