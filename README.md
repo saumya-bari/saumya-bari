@@ -20,7 +20,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · saumya-bari</sub></p>
+
 <h1>Saumya Bari</h1>
 <h2>Frontend or full-stack engineer</h2>
 <p>Software Developer | HTML, CSS, Python &amp; Web Enthusiast Building useful apps and clean, readable code Passionate about open source &amp; continuous learning.</p>
@@ -127,5 +127,5 @@
   <img src="https://www.gitskins.com/api/section/social?username=saumya-bari&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F220098074%3Fu%3D41bcb99616588c77502e420ab03204df502ec34a%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Saumya Bari community links" />
 </picture></p>
 <p align="center"><a href="https://github.com/saumya-bari">GitHub</a></p>
-<p align="center"><sub>Saumya Bari · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
 
